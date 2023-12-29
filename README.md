@@ -3,7 +3,7 @@
 
 Currently, this account is used for private source control and opening issues.
 
-[https://www.npxl32.com/](https://www.npxl32.com/) (the www must be there)
+[www.npxl32.com](https://www.npxl32.com/) (the www must be there)
 
 
 ---
