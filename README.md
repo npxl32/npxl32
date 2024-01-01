@@ -5,6 +5,8 @@ Currently, this account is used for private source control and opening issues.
 
 [www.npxl32.com](https://www.npxl32.com/) (the www must be there)
 
+# CRLF better
+CRLF is undeniably better than LF
 
 ---
 
