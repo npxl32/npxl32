@@ -14,6 +14,6 @@ You can click the Preview link to delete your changes.
 --->
 ---
 <br />
-Random stats no one reads!!
+Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=npxl32&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
